@@ -3,7 +3,7 @@ Overview
 
 This project explores video game sales over the years, using an interactive Power BI dashboard. The report provides insights into global sales trends, top-performing platforms, publishers, and genres.
 
-Objectives
+Objectives:
 
 Analyze sales trends by year.
 
@@ -15,7 +15,7 @@ Highlight the most successful game genres.
 
 Provide a user-friendly interactive dashboard for exploration.
 
-Dataset
+Dataset:
 
 The dataset contains information on video game sales, including:
 
@@ -31,7 +31,7 @@ Publisher – Company behind the game
 
 Sales Data – Regional and global sales figures (in millions)
 
-Dashboard Features
+Dashboard Features:
 
 The Power BI dashboard includes:
 
